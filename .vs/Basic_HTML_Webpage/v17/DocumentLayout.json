@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itsyb\\OneDrive\\Documents\\Basic_HTML_Webpage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{364592F0-DC36-4F71-B90F-85947A475023}|Basic_HTML_Webpage\\Basic_HTML_Webpage.csproj|c:\\users\\itsyb\\onedrive\\documents\\basic_html_webpage\\basic_html_webpage\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{364592F0-DC36-4F71-B90F-85947A475023}|Basic_HTML_Webpage\\Basic_HTML_Webpage.csproj|solutionrelative:basic_html_webpage\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsyb\\OneDrive\\Documents\\Basic_HTML_Webpage\\Basic_HTML_Webpage\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Basic_HTML_Webpage\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\itsyb\\OneDrive\\Documents\\Basic_HTML_Webpage\\Basic_HTML_Webpage\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Basic_HTML_Webpage\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T02:11:49.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

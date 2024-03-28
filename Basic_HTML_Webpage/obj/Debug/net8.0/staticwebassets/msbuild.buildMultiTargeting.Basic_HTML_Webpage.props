@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Basic_HTML_Webpage.props" />
+</Project>
